@@ -186,9 +186,9 @@ If there are any ties within the top four places (i.e., the four teams with the 
 
 ```
 @article{abdelnabi2025llmail,
-  title={LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge},
-  author={Abdelnabi, Sahar and Fay, Aideen and Salem, Ahmed and Zverev, Egor and Liao, Kai-Chieh and Liu, Chi-Huang and Kuo, Chun-Chih and Weigend, Jannis and Manlangit, Danyael and Apostolov, Alex and others},
-  journal={arXiv preprint arXiv:2506.09956},
-  year={2025}
+  title     = {LLMail-Inject: A Dataset from a Realistic Adaptive Prompt Injection Challenge},
+  author    = {Sahar Abdelnabi and Aideen Fay and Ahmed Salem and Egor Zverev and Chi-Huang Liu and Chun-Chih Kuo and Jannis Weigend and Danyael Manlangit and Alex Apostolov and Haris Umair and João Donato and Masayuki Kawakita and Athar Mahboob and Tran Huu Bach and Tsun-Han Chiang and Myeongjin Cho and Hajin Choi and Byeonghyeon Kim and Hyeonjin Lee and Benjamin Pannell and Conor Mac Amhlaoibh and Mark Russinovich and Andrew Paverd and Giovanni Cherubin},
+  journal   = {arXiv preprint arXiv:2506.09956},
+  year      = {2025}
 }
 ```
