@@ -156,7 +156,8 @@ def _get_access_token_from_redirect(req: func.HttpRequest) -> AccessToken:
         **{
             k: v
             for k, v in access_token.items()
-            if k in AccessToken.__dataclass_fields__  
+            if k in AccessToken.__dataclass_fields__
+        }
     )
 
 
